@@ -1,2 +1,2 @@
 # ProcessIfNotEmpty
-This a source code for an article
+Article: https://habr.com/ru/post/349920/
